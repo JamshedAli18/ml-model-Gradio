@@ -9,7 +9,7 @@ A beautiful and interactive machine learning web application that predicts stude
 
 ## 🌟 Live Demo
 
-**[https://huggingface.co/spaces/jamshed18/student-grade-predictor](#)** 
+https://huggingface.co/spaces/Jamshed18/student-grade-predictor
 
 ## 🎯 Features
 
@@ -78,3 +78,4 @@ The model is trained on a **synthetic dataset** of 1,000 student records with th
 
 6. **Open in browser**
    - Go to http://127.0.0.1:7860
+
